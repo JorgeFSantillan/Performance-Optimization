@@ -15,10 +15,10 @@ without impacting layout or functionality.
 <h2>Before vs After</h2>
 
 <h3>Before Optimization</h3>
-<img src="before-performance.png" alt="Lighthouse performance before optimization" width="800">
+<img src="lighthouse.png" alt="Lighthouse performance before optimization" width="800">
 
 <h3>After Optimization</h3>
-<img src="after-performance.png" alt="Lighthouse performance after optimization" width="800">
+<img src="lighthouse-update.png" alt="Lighthouse performance after optimization" width="800">
 
 <h2>Performance Results</h2>
 
@@ -125,3 +125,7 @@ This project demonstrates a structured performance optimization process: identif
 bottlenecks, applying targeted fixes, and validating improvements with measurable results.
 The final result is a fast, stable, and production-ready website with strong Core Web Vitals.
 </p>
+
+<br>
+
+[Return to Home](https://github.com/JorgeFSantillan)
