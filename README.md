@@ -1,4 +1,4 @@
-<h1>Website Performance Optimization Case Study</h1>
+<h1>Website Performance Optimization</h1>
 
 <p><strong>Project:</strong> Govsera</p>
 <p><strong>Stack:</strong> WordPress + Elementor</p>
